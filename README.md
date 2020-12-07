@@ -1,9 +1,9 @@
 # python-meetup-lx
 
-**Data Visualization with Python** 
+**Data Visualization with Python** <br />
 by [Rita Goncalves](https://www.linkedin.com/in/ritavigoncalves/) 
 
-Here you can find my notes and links provided during
+Here you can find my notes and links provided during <br />
 Python Meetup Lx (7 Dec, 2020) 
 
 <br />
@@ -24,7 +24,8 @@ Dataset used for the demo: [Ted Talks, Kaggle](https://www.kaggle.com/rounakbani
 <br />
 <br />
 
-**Recomendations**
+**Recomendations** <br />
+
 If you're getting started with python:
 - [Automate the boring stuff](automatetheboringstuff.com)
 
